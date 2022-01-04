@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gauttamsonkamble
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java, Spring Boot and various programming.
-- 💞️ I’m looking to collaborate on people's problems using programming.
+- 🌱 I’m currently Teaching Java, Spring Boot and various programming.
+- 💞️ I’m looking to collaborate & solving on people's problems using programming.
 - 📫 You can reach me at "gauttamsonkamble358@gmail.com" and "+919049436264".
 
 <!---
