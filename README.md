@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauttam sonkamble
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently Teaching Java, Spring Boot and various programming.
+- 🌱 I’m currently Teaching, Training Java, Spring Boot and various programming in multiple companies & colleges.
 - 💞️ I’m looking to collaborate & solving on people's problems using programming.
 - 📫 You can reach me at "gauttamsonkamble358@gmail.com" and "+919049436264".
 
