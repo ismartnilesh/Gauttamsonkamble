@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauttamsonkamble
+- 👋 Hi, I’m @Gauttam sonkamble
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently Teaching Java, Spring Boot and various programming.
 - 💞️ I’m looking to collaborate & solving on people's problems using programming.
